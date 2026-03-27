@@ -1,0 +1,10 @@
+{
+  "name": "prediction-oracle-guard",
+  "version": "0.1.0",
+  "description": "Middleware to protect against oracle manipulation and downtime",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test"
+  },
+  "license": "MIT"
+}
